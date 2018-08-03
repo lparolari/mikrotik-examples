@@ -17,8 +17,7 @@ In every exercise' directory you will find:
 git clone https://github.com/lparolari/mikrotik-examples.git
 cd mikrotik-examples
 
-
-# Author(s)
+## Author(s)
 
 Luca Parolari <luca.parolari23@gmail.com> (Student of Computer Science at University of Parma, Italy)
 
