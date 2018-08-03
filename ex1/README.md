@@ -1,4 +1,4 @@
-# Exercise
+# Exercise 1
 
 Create a wan connection over eth1; connection is provided by another
 devices with dhcp server enabled. This configuration will get the ip
